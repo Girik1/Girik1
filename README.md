@@ -3,6 +3,10 @@
 <p align="center">
   <em>Fortifying digital landscapes with offensive insight and defensive precision.</em>
 </p>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/1cc478d6ea38eab530acb98124c749dba0c5b19294bee0ee4bd6169ae4f5639d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966" alt="Hacker Animation" width="600" />
+</p>
+
 
 ---
 
