@@ -37,15 +37,7 @@ I'm dedicated to bridging the gap between offensive tactics and defensive strate
 
 
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
   <em>“Security isn’t a product, it’s a process.” – Bruce Schneier</em>
