@@ -8,7 +8,7 @@
 
 ### 🧬 About Me
 
-Hello, I'm **[Your Name]**, a cybersecurity professional with a passion for exploring vulnerabilities, understanding adversary behaviors, and securing complex environments. My expertise spans:
+Hello, I'm Girik dhingra, a cybersecurity professional with a passion for exploring vulnerabilities, understanding adversary behaviors, and securing complex environments. My expertise spans:
 
 - 🛡️ Red & Blue Team Operations  
 - ⚔️ Penetration Testing & Ethical Hacking  
@@ -27,20 +27,11 @@ I'm dedicated to bridging the gap between offensive tactics and defensive strate
 - **📖 MalwarePlayground** – Reverse engineering real malware samples in a safe lab environment  
 - **📚 BlueTeam Lab** – Detection engineering, SIEM rules, and incident response exercises  
 
-> Explore all repositories [here »](https://github.com/your-username?tab=repositories)
+> Explore all repositories [here »](https://github.com/girik1?tab=repositories)
 
 ---
 
-### 📢 Let's Connect
 
-I'm open to collaboration, research opportunities, and impactful conversations around cybersecurity.
-
-- 🌐 Website: [yourdomain.com](https://yourdomain.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)  
-- 🐦 Twitter: [@YourHandle](https://twitter.com/YourHandle)  
-- 📧 Email: [you@example.com](mailto:you@example.com)
-
----
 
 ### 📊 GitHub Stats
 
